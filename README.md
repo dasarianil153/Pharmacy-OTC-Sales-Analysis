@@ -24,7 +24,7 @@ A Power BI dashboard project analyzing over-the-counter (OTC) pharmacy sales acr
 
 - Number of Transactions – Count of sales records
 
-![image alt](https://github.com/dasarianil153/Bank-loan-analysis-Power-BI/blob/main/Dashboard1.PNG)
+![image alt](https://github.com/dasarianil153/Pharmacy-OTC-Sales-Analysis/blob/main/pharma%20dashboard.PNG)
 
 🛠 Tools & Technologies
 
